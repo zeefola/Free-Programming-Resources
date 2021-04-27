@@ -12,9 +12,9 @@
 - Frontend Tips [Youtube](https://www.youtube.com/channel/UC0abAX9cuVB0klLobCewq-g)
 - Wes Bos [Youtube](https://www.youtube.com/channel/UCoebwHSTvwalADTJhps0emA)
 - Javascript Mastery [YouTube](https://www.youtube.com/channel/UCmXmlB4-HJytD7wek0Uo97A)
-- DevEd YouTube
-- Solo learn
-- Scrimba 
-- Scotch.io
-- Dennis Ivy
-- Online tutorials.
+- DevEd [YouTube](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q)
+- Solo learn [Website] (https://www.sololearn.com/)
+- Scrimba [Website](https://scrimba.com/)
+- Scotch.io [Website](https://scotch.io/)
+- Dennis Ivy [Youtube](https://www.youtube.com/channel/UCTZRcDjjkVajGL6wd76UnGg)
+- Online tutorials [Youtube](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog)
