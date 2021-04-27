@@ -11,7 +11,7 @@
 - Derek Banas [Youtube](https://www.youtube.com/channel/UCwRXb5dUK4cvsHbx-rGzSgw)
 - Frontend Tips [Youtube](https://www.youtube.com/channel/UC0abAX9cuVB0klLobCewq-g)
 - Wes Bos [Youtube](https://www.youtube.com/channel/UCoebwHSTvwalADTJhps0emA)
-- Javascript Mastery YouTube(https://www.youtube.com/channel/UCmXmlB4-HJytD7wek0Uo97A)
+- Javascript Mastery [YouTube](https://www.youtube.com/channel/UCmXmlB4-HJytD7wek0Uo97A)
 - DevEd YouTube
 - Solo learn
 - Scrimba 
